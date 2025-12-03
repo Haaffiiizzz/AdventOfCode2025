@@ -19,9 +19,5 @@ for Range in ranges:
                     move = True
                     break
             if move:
-                break
-
-        
-
-        
+                break    
 print(total)
